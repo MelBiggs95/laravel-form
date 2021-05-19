@@ -87,4 +87,6 @@ Now we can test our form. Fill it in and hit submit and the code in your method 
 
 ### Relevant files in this repo:
 
-- 
+- **[FormController.php](https://github.com/dafroberts/laravel-basic-form/blob/master/app/Http/Controllers/FormController.php)** - Class (controller) responsible for handling all form submissions (contains our methods)
+- **[web.php](https://github.com/dafroberts/laravel-basic-form/blob/master/routes/web.php)** - Contains all of our accessible URLs/routes
+- **[enquiry-form.blade.php](https://github.com/dafroberts/laravel-basic-form/blob/master/resources/views/enquiry-form.blade.php)** - Contains the HTML markup for our form.
