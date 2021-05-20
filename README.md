@@ -1,4 +1,4 @@
-# Basic form submission tutorial (Laravel)
+# Form submission notes (Laravel)
 
 ## Installation
 - Clone the repo
